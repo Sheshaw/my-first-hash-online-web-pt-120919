@@ -20,4 +20,4 @@ def adding
 
 end
 
-shipping_manifest
+the_manifest
