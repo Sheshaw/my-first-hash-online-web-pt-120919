@@ -17,6 +17,7 @@ end
 
 def adding
   shipping_manifest["muskets" => 2]
+  shipping_manifest
 
 end
 
