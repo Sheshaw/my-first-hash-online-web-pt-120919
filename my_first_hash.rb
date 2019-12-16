@@ -20,4 +20,5 @@ def adding
 
 end
 
-the_manifest
+def shipping_manifest
+  the_manifest
