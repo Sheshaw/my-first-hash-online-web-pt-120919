@@ -16,7 +16,7 @@ def retrieval
 end
 
 def adding
-  shipping_manifest["muskets" => 2]
+  the_manifest["muskets" => 2]
 
 end
 
