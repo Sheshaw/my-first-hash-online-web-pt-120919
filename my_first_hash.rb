@@ -1,4 +1,5 @@
 def my_hash
+  cat = { "dog" => 20, "cat" => 50}
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 
   
