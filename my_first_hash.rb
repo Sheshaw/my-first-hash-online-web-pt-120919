@@ -22,3 +22,4 @@ end
 
 def shipping_manifest
   the_manifest
+end
