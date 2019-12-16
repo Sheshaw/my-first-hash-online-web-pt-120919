@@ -23,11 +23,7 @@ def retrieval
 end
 
 def adding
-  shipping_manifest = ["muskets"] =nifest hash below
-
-
-
-  # add 4 gun powder to the shipping_manifest hash below
+  shipping_manifest = ["muskets"] = 4
 
 
 
